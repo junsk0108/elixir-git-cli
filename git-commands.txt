@@ -69,6 +69,7 @@ index-pack
 init-db
 instaweb
 interpret-trailers
+lfs
 log
 ls-files
 ls-remote
@@ -133,6 +134,7 @@ show
 show-branch
 show-index
 show-ref
+sparse-checkout
 stage
 stash
 status
